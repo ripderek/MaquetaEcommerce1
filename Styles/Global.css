@@ -29,3 +29,34 @@ p{
     box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Añade un efecto de sombra */
     outline: none; 
 }
+
+.bg-p-blue-900 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(13 71 161/var(--tw-bg-opacity))
+}
+
+.bg-p-blue-1000 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(4 25 57 /var(--tw-bg-opacity))
+}
+
+.bg-p-blue-2000 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(9 47 107/var(--tw-bg-opacity))
+}
+
+
+.bg-p-yellow-600 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(253 216 53/var(--tw-bg-opacity))
+}
+
+.text-p-yellow-700 {
+    --tw-text-opacity: 1;
+    color: rgb(251 192 45/var(--tw-text-opacity))
+}
+
+.text-p-blue-1000  {
+    --tw-text-opacity: 1;
+    color: rgb(9 47 107/var(--tw-text-opacity))
+}
